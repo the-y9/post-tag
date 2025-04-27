@@ -1,4 +1,4 @@
-from typing import List, Optional
+from typing import Optional
 from fastapi import Body, FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 import mysql.connector

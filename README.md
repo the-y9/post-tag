@@ -1,6 +1,6 @@
 # FastAPI Blog Post Management with Tagging
 
-This project is a blog post management system built with FastAPI, MySQL, and Python. It allows users to create, retrieve, and search for blog posts and associated tags. The system supports the following actions:
+This project is a blog post management system built with FastAPI, MySQL, and Click. It allows users to create, retrieve, and search for blog posts and associated tags. The system supports the following actions:
 
 - **Creating new blog posts** with optional tags.
 - **Retrieving all posts** and filtering by tags.
